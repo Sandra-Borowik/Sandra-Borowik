@@ -1,3 +1,4 @@
+<img src="images/honey_header.svg"></img> 
 # Cześć, miło Cię tutaj widzieć! 💖
 
 ### 🐝 &nbsp;O mnie
@@ -120,10 +121,10 @@ LINUX
 
 ### 🐝 &nbsp; Moje media społecznościowe:
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandra-borowik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sandra.borowik26@gmail.com&tf=cm"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/sandra.borowik3"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/swigittys/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandra-borowik/"><img src="https://img.shields.io/badge/linkedin-ffca16.svg?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sandra.borowik26@gmail.com&tf=cm"><img src="https://img.shields.io/badge/gmail-ffca16.svg?&style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/sandra.borowik3"><img src="https://img.shields.io/badge/facebook-ffca16.svg?&style=for-the-badge&logo=facebook&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/swigittys/"><img src="https://img.shields.io/badge/instagram-ffca16.svg?&style=for-the-badge&logo=instagram&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <table align="right">

@@ -37,9 +37,8 @@ basic linux;\
   Programming Languages:\
   ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)&nbsp;
-  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)&nbsp;
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
   ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)&nbsp;
   
   Frameworks:\
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
@@ -87,7 +86,6 @@ LINUX
   <br/>
   
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)&nbsp;
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -97,12 +95,12 @@ LINUX
   <summary><b>🧠: &nbsp;Other knowledge</b></summary>
   <br/>
   
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?&style=flat&logo=cisco&logoColor=black)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?&style=flat&logo=openai&logoColor=white)&nbsp;
-
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 
 </details>
